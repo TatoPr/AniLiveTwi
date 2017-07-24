@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AniLiveTw</string>
+    <string name="twitter_consumer_key">k9GEce4RehBCqgHpPmZKdzTzZ</string>
+    <string name="twitter_consumer_secret">4O4lqR7COpsdSM3DOKfJz7hle2S9B3zC12iePfYeqvL1oA8I6Y</string>
+    <string name="twitter_oauth">Authorize</string>
+    <string name="twitter_callback_url">tatojii://twitter</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_tweet">Tweet</string>
+</resources>
